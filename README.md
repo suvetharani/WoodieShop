@@ -25,7 +25,7 @@
 ---
 
 ### 🏠 Home Page
-![Home](./screenshots/home.png)
+![Home](./screenshots/homepage.png)
 
 ### 🛍️ Product Section
 ![Products](./screenshots/products.png)
